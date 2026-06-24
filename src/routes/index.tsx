@@ -149,7 +149,7 @@ function Pillars() {
     {
       tag: "Partner",
       title: "I partner with creators.",
-      body: "You have the audience. I have the product. Let's talk. For creators with 5k–100k followers, strong engagement, no digital product yet.",
+      body: "You have the audience. I have the product. Let's talk.",
       cta: "Let's talk",
       scroll: "contact",
     },
