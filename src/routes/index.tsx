@@ -126,11 +126,11 @@ function Hero() {
         </div>
 
         <div className="md:col-span-4 md:pt-10">
-          <div className="aspect-[4/5] w-full rounded-lg border border-border bg-surface flex items-center justify-center overflow-hidden">
+          <div className="w-full rounded-lg border border-border bg-surface flex items-center justify-center overflow-hidden p-6">
             <img
               src="/logo-new.png"
               alt="EKUNE logo"
-              className="h-full w-full object-contain p-4"
+              className="w-full h-auto"
             />
           </div>
         </div>
