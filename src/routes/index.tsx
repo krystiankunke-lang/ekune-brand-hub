@@ -233,7 +233,7 @@ function About() {
           <Eyebrow>About</Eyebrow>
           <h2 className="text-3xl md:text-4xl">Hi, I'm Krystian.</h2>
           <div className="mt-8 space-y-5 text-lg leading-relaxed text-muted-foreground max-w-2xl">
-            <p>I've spent years in consulting — training teams, building systems, managing chaos. Now I build digital products for people who are overstimulated and under-supported, and I help creators turn their expertise into products that actually sell.</p>
+            <p>I've spent years in the construction industry — developing systems, managing chaos, training teams. Now I build digital products for people who are overstimulated and under-supported, and I help creators turn their expertise into products that actually sell.</p>
             <p>I don't believe in hustle culture. I don't sell motivation. I build systems that work when you don't have energy.</p>
             <p className="text-foreground">EKUNE is where all of this lives.</p>
           </div>
