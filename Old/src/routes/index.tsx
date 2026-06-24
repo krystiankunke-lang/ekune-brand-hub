@@ -149,7 +149,7 @@ function Pillars() {
     {
       tag: "Partner",
       title: "I partner with creators.",
-      body: "You have the audience. I have the product. Let's talk.\u00a0",
+      body: "You have the audience. I have the product. Let's talk.",
       cta: "Let's talk",
       scroll: "contact",
     },
