@@ -218,7 +218,6 @@ function ThePath() {
               allowFullScreen
             />
           </div>
-          <div className="mt-4 text-xs text-muted-foreground">[PLACEHOLDER: product mockup]</div>
         </div>
       </div>
     </Section>
