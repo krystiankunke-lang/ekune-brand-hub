@@ -238,10 +238,12 @@ function About() {
           </div>
         </div>
         <div className="md:col-span-4">
-          <div className="aspect-[4/5] w-full rounded-lg border border-border bg-surface flex items-center justify-center">
-            <div className="text-center text-xs uppercase tracking-[0.18em] text-muted-foreground">
-              [PLACEHOLDER]<br /><span className="normal-case tracking-normal">photo of Krystian</span>
-            </div>
+          <div className="aspect-[4/5] w-full rounded-lg overflow-hidden">
+            <img
+              src="/profile-picture.jpg"
+              alt="Krystian Kunke"
+              className="h-full w-full object-cover"
+            />
           </div>
         </div>
       </div>
