@@ -114,10 +114,10 @@ function Hero() {
             <span className="text-primary">Helping them ship.</span>
           </h1>
           <p className="mt-8 max-w-xl text-lg leading-relaxed text-muted-foreground md:text-xl">
-            I'm Krystian Kunke. I build tools for people who are running on reserve — and help creators turn expertise into products that scale.
+            I help people break out of autopilot and build something of their own — through products that interrupt the cycle, and through creators I help turn expertise into income.
           </p>
           <p className="mt-6 max-w-xl text-base text-muted-foreground">
-            EKUNE is my personal brand. The Path is my first product line. If you're a creator, I can help you build yours.
+            The Path is where it starts. If you're a creator, I can help you build yours.
           </p>
           <div className="mt-10 flex flex-wrap gap-3">
             <PrimaryBtn href={PATH_URL}>See The Path <IconArrow className="h-4 w-4" /></PrimaryBtn>
